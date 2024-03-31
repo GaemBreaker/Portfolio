@@ -1,0 +1,11 @@
+Menu:
+1. Sklep z bronią
+2. Sklep z pancerzem
+3. Arena
+4. Sklep z żywnością
+
+
+stamina
+odnawianie staminy i hp przez spanie
+spanie w hotelu odnawia stamine i hp o 100% ale kosztuje * golda
+spanie pod drzewem odanwia 50% staminy i nie odnawia hp
